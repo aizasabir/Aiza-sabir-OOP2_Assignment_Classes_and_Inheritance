@@ -1,0 +1,8 @@
+C:\OOPS2S\Assignment # 01\Assignment01\bin\Debug\Assignment01.exe.config
+C:\OOPS2S\Assignment # 01\Assignment01\bin\Debug\Assignment01.exe
+C:\OOPS2S\Assignment # 01\Assignment01\bin\Debug\Assignment01.pdb
+C:\OOPS2S\Assignment # 01\Assignment01\obj\Debug\Assignment01.csproj.AssemblyReference.cache
+C:\OOPS2S\Assignment # 01\Assignment01\obj\Debug\Assignment01.csproj.SuggestedBindingRedirects.cache
+C:\OOPS2S\Assignment # 01\Assignment01\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+C:\OOPS2S\Assignment # 01\Assignment01\obj\Debug\Assignment01.exe
+C:\OOPS2S\Assignment # 01\Assignment01\obj\Debug\Assignment01.pdb
